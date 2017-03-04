@@ -1,1 +1,3 @@
-# prueba-twj-logachoedison2
+# Mascotas
+
+a [Sails](http://sailsjs.org) application
